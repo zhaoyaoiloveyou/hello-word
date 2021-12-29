@@ -1,2 +1,5 @@
 # hello-word
-my first test
+
+just do it
+
+My name is Shine.
